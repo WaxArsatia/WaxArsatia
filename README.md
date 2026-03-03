@@ -81,11 +81,11 @@ focus     = Reliability · Scalability · Systems Thinking
 
 <div align="center">
 
-<img height="185px" src="https://github-readme-stats.vercel.app/api?username=WaxArsatia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9&ring_color=00c2ff" alt="GitHub Stats" />&nbsp;<img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaxArsatia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
+<img height="185px" src="https://github-readme-stats-salesp07.vercel.app/api?username=WaxArsatia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9&ring_color=00c2ff&cache_seconds=86400" alt="GitHub Stats" />&nbsp;<img height="185px" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WaxArsatia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Most Used Languages" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WaxArsatia&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00c2ff&ring=00c2ff&fire=ff6e96&currStreakLabel=00c2ff&sideLabels=a5d8ff&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=WaxArsatia&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00c2ff&ring=00c2ff&fire=ff6e96&currStreakLabel=00c2ff&sideLabels=a5d8ff&dates=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
@@ -95,9 +95,7 @@ focus     = Reliability · Scalability · Systems Thinking
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WaxArsatia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&text_color=c9d1d9&layout=compact&langs_count=10" alt="WakaTime Stats" />
-
-> 💡 **Note:** WakaTime stats require `WAKATIME_API_KEY` to be set as a repository secret for live data.
+<img src="https://github-readme-stats-salesp07.vercel.app/api/wakatime?username=WaxArsatia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&text_color=c9d1d9&layout=compact&langs_count=10&cache_seconds=86400" alt="WakaTime Stats" />
 
 </div>
 
@@ -117,7 +115,7 @@ focus     = Reliability · Scalability · Systems Thinking
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WaxArsatia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=WaxArsatia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
 
 </div>
 
