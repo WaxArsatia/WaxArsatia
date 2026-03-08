@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&lines=%22In+a+world+of+variables%2C+be+a+constant.%22;Backend+Developer+%7C+Network+Engineer+%7C+Linux+SysAdmin;Building+reliable+systems%2C+one+commit+at+a+time..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&lines=%22In+a+world+of+variables%2C+be+a+constant.%22;Backend+Developer+%7C+Network+Engineer+%7C+Linux+SysAdmin;Building+reliable+systems%2C+one+commit+at+a+time...;Rust+%7C+Go+%7C+TypeScript+%7C+Node.js+%7C+Linux" alt="Typing SVG" />
 
 <br /><br />
 
@@ -16,6 +16,9 @@
 </a>&nbsp;
 <a href="https://wakatime.com/@WaxArsatia">
   <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+</a>&nbsp;
+<a href="https://github.com/ForumLinuxIndonesia">
+  <img src="https://img.shields.io/badge/ForumLinuxIndonesia-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="ForumLinuxIndonesia" />
 </a>&nbsp;
 <a href="https://github.com/WaxArsatia">
   <img src="https://komarev.com/ghpvc/?username=WaxArsatia&color=00c2ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -35,15 +38,18 @@ name      = Denis Arsyatya
 alias     = WaxArsatia
 role      = Backend Developer | Network Engineer | Linux SysAdmin
 motto     = "In a world of variables, be a constant."
-stack     = JavaScript / TypeScript  —  Node.js Ecosystem
+stack     = TypeScript · Rust · Go  —  Node.js Ecosystem
 focus     = Reliability · Scalability · Systems Thinking
+org       = ForumLinuxIndonesia
 ```
 
 - 🔧 **Backend** — Designing and building robust REST APIs, microservices, and server-side logic
+- 🦀 **Systems** — Low-level systems programming with Rust; SSH-over-WebSocket, performance-critical tools
+- 🐹 **Go** — Building concurrent, high-performance services and CLI tools with Go
 - 🌐 **Networking** — Network design, configuration, and infrastructure management
-- 🐧 **Linux** — System administration, automation, and shell scripting
-- 📦 **JS Ecosystem** — Deep expertise in TypeScript, Node.js, React, and Next.js
-- 🚀 **Always** exploring new tools and best practices to sharpen the craft
+- 🐧 **Linux** — System administration, automation, shell scripting, and active member of ForumLinuxIndonesia
+- 📦 **JS/TS Ecosystem** — Deep expertise in TypeScript, Node.js, React, and Next.js
+- 🚀 **Always** exploring new languages, tools, and best practices to sharpen the craft
 
 ---
 
@@ -51,9 +57,9 @@ focus     = Reliability · Scalability · Systems Thinking
 
 <div align="center">
 
-**Languages & Runtimes**
+**Core Languages & Runtimes**
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,go,nodejs&theme=dark" />
 
 <br />
 
@@ -72,6 +78,36 @@ focus     = Reliability · Scalability · Systems Thinking
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+
+<br />
+
+**Also Worked With**
+
+<img src="https://skillicons.dev/icons?i=python,java,php&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/WaxArsatia/SSHWS-Rust">
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WaxArsatia&repo=SSHWS-Rust&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/WaxArsatia/pseudocode-converter">
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WaxArsatia&repo=pseudocode-converter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/WaxArsatia/next-overmath">
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WaxArsatia&repo=next-overmath&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/WaxArsatia/auctores-discord-bot">
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WaxArsatia&repo=auctores-discord-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c2ff&icon_color=00c2ff&text_color=c9d1d9" />
+</a>
 
 </div>
 
