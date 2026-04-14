@@ -20,6 +20,7 @@ stack     = TypeScript · Rust · Go · Solidity  —  Node.js · Bun Ecosystem
 focus     = Reliability · Scalability · Systems Thinking
 org       = Forum Linux Indonesia
 website   = https://denis.my.id
+linkedin  = https://www.linkedin.com/in/denis-arsyatya/
 ```
 
 ## 📊 GitHub Stats
@@ -42,5 +43,19 @@ website   = https://denis.my.id
   <tr><td><b>Web3</b></td><td><img src="https://skillicons.dev/icons?i=solidity&theme=dark" /> <img src="https://img.shields.io/badge/Hardhat-F7C948?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" /> <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" /> <img src="https://img.shields.io/badge/ERC--20%2F721%2F1155-8A2BE2?style=flat-square&logo=ethereum&logoColor=white" alt="ERC Standards" /></td></tr>
   <tr><td><b>Also Worked With</b></td><td><img src="https://skillicons.dev/icons?i=python,java,php&theme=dark" /></td></tr>
 </table>
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/denis-arsyatya/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Denis%20Arsyatya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Denis Arsyatya" />
+</a>
+
+<br/>
+
+Open for collaboration, partnerships, and meaningful tech conversations.
 
 </div>
